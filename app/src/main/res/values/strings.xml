@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Book Inventory_Puput</string>
+    <string name="title_activity_book_form">Book Luna Torashyngu</string>
+    <string name="action_search">Search</string>
+</resources>
